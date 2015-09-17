@@ -9,3 +9,6 @@ Unfortunately, they do not have programming resources to provide an API that we 
 
 # Limitations: 
 Cannot use any server side programming languages. Only HTML and JS.
+
+# Working Example:
+http://theSilentCamera.com/test/pricefetcher/
